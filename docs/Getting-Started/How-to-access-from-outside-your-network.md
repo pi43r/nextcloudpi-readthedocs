@@ -1,7 +1,7 @@
-[nc-forward-ports]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#nc-forward-ports
-[freeDNS]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#freeDNS
-[no-ip]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#no-ip
-[letsencrypt]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#letsencrypt
+[nc-forward-ports]: http://docs.nextcloudpi.com/en/latest/Configure/Configuration-Reference/#nc-forward-ports
+[freeDNS]: http://docs.nextcloudpi.com/en/latest/Configure/Configuration-Reference/#freeDNS
+[no-ip]: http://docs.nextcloudpi.com/en/latest/Configure/Configuration-Reference/#no-ip
+[letsencrypt]: http://docs.nextcloudpi.com/en/latest/Configure/Configuration-Reference/#letsencrypt
 
 You can do these steps from the TUI or from the WebUI.
 
